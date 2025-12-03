@@ -56,12 +56,3 @@ Este repositório é o caderno digital da minha jornada no desenvolvimento de in
 
 ---
 
-### 🚀 Como visualizar os projetos
-Você pode clonar este repositório ou acessar via **GitHub Pages** (se configurado).
-
-```bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git
-<div align="center">
-<sub>Code with 💜 by Você</sub>
-</div>
-```
